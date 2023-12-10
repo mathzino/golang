@@ -44,5 +44,6 @@ func main() {
 		fallthrough
 	case num%2 != 0:
 		fmt.Println("Angka ganjil")
+	
 	}
 }
